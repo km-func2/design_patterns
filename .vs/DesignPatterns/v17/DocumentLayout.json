@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Boot Camp\\source\\repos\\DesignPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{681578DF-F522-40DA-9D7A-ED3D43D6C3C5}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\boot camp\\source\\repos\\designpatterns\\designpatterns\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681578DF-F522-40DA-9D7A-ED3D43D6C3C5}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681578DF-F522-40DA-9D7A-ED3D43D6C3C5}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\boot camp\\source\\repos\\designpatterns\\designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681578DF-F522-40DA-9D7A-ED3D43D6C3C5}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{66f449b5-c823-40bc-9016-02b4d06a1a8e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Adapter.cs",
+              "DocumentMoniker": "C:\\Users\\Boot Camp\\source\\repos\\DesignPatterns\\DesignPatterns\\Adapter.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Adapter.cs",
+              "ToolTip": "C:\\Users\\Boot Camp\\source\\repos\\DesignPatterns\\DesignPatterns\\Adapter.cs",
+              "RelativeToolTip": "DesignPatterns\\Adapter.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:37:28.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Boot Camp\\source\\repos\\DesignPatterns\\DesignPatterns\\Program.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Program.cs",
+              "ToolTip": "C:\\Users\\Boot Camp\\source\\repos\\DesignPatterns\\DesignPatterns\\Program.cs",
+              "RelativeToolTip": "DesignPatterns\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:37:16.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
